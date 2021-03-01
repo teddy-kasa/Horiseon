@@ -89,6 +89,7 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    background-color: #0072bb;
 }
 
 .benefit-brand {
@@ -176,6 +177,7 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    
 }
 
 .online-reputation-management h2 {
